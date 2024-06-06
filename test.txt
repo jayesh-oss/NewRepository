@@ -1,1 +1,6 @@
 hello user
+commands for git 
+git clone : to make clone of repository to local system
+ls : to see the list of files in repository
+git pull : to access files in git repository to local system
+cat : show the contant in files
