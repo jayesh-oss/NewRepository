@@ -6,4 +6,5 @@ git pull : to access files in git repository to local system
 cat : show the contant in files
 git status : show the file status in local repository
 git add : add the file to staging area
+git commit -m <name> : save files 
 git push : push the files from staging area to git repository
