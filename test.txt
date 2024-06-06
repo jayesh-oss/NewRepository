@@ -9,3 +9,9 @@ git add : add the file to staging area
 git commit -m <"name"> : save files 
 git push : to publish loacl repository
 git remote -v : to know which repository push our changes
+git branch : to list branch
+git branch <name> : creating new branch
+git checkout <branch name> : Switching to another branch
+git checkout -b <branch name> : creating and switching to new branch
+git branch -m <old name><new name> : Renaming branch
+git branch -m <new name> : renamig current branch
