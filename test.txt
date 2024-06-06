@@ -1,4 +1,4 @@
-hello user
+hello user!
 commands for git 
 git clone : to make clone of repository to local system
 ls : to see the list of files in repository
